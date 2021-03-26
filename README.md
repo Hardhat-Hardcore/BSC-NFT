@@ -1,5 +1,8 @@
 # BSC Workshop
 
+### BSC Slides
+https://docs.google.com/presentation/d/1BNnVAafu2W-KZe8VsrmL0rEukf5LoJ7Gqyqa4XDbgj0/edit?usp=sharing
+
 ### Remix IDE
 https://remix.ethereum.org/#optimize=false&runs=200
 
