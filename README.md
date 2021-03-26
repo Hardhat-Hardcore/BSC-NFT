@@ -1,5 +1,8 @@
 # BSC Workshop
 
+### Remix IDE
+https://remix.ethereum.org/#optimize=false&runs=200
+
 ### Download MetaMask
 https://metamask.io
 
