@@ -1,5 +1,8 @@
 # BSC Workshop
 
+### TLK
+https://tlk.io/bsc
+
 ### BSC Slides
 https://docs.google.com/presentation/d/1BNnVAafu2W-KZe8VsrmL0rEukf5LoJ7Gqyqa4XDbgj0/edit?usp=sharing
 
